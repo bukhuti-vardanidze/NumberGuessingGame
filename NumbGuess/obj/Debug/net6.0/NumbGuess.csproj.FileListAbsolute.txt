@@ -1,0 +1,15 @@
+C:\Users\varda\Desktop\NumberGuessingGame\NumbGuess\bin\Debug\net6.0\NumbGuess.exe
+C:\Users\varda\Desktop\NumberGuessingGame\NumbGuess\bin\Debug\net6.0\NumbGuess.deps.json
+C:\Users\varda\Desktop\NumberGuessingGame\NumbGuess\bin\Debug\net6.0\NumbGuess.runtimeconfig.json
+C:\Users\varda\Desktop\NumberGuessingGame\NumbGuess\bin\Debug\net6.0\NumbGuess.dll
+C:\Users\varda\Desktop\NumberGuessingGame\NumbGuess\bin\Debug\net6.0\NumbGuess.pdb
+C:\Users\varda\Desktop\NumberGuessingGame\NumbGuess\obj\Debug\net6.0\NumbGuess.csproj.AssemblyReference.cache
+C:\Users\varda\Desktop\NumberGuessingGame\NumbGuess\obj\Debug\net6.0\NumbGuess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varda\Desktop\NumberGuessingGame\NumbGuess\obj\Debug\net6.0\NumbGuess.AssemblyInfoInputs.cache
+C:\Users\varda\Desktop\NumberGuessingGame\NumbGuess\obj\Debug\net6.0\NumbGuess.AssemblyInfo.cs
+C:\Users\varda\Desktop\NumberGuessingGame\NumbGuess\obj\Debug\net6.0\NumbGuess.csproj.CoreCompileInputs.cache
+C:\Users\varda\Desktop\NumberGuessingGame\NumbGuess\obj\Debug\net6.0\NumbGuess.dll
+C:\Users\varda\Desktop\NumberGuessingGame\NumbGuess\obj\Debug\net6.0\refint\NumbGuess.dll
+C:\Users\varda\Desktop\NumberGuessingGame\NumbGuess\obj\Debug\net6.0\NumbGuess.pdb
+C:\Users\varda\Desktop\NumberGuessingGame\NumbGuess\obj\Debug\net6.0\NumbGuess.genruntimeconfig.cache
+C:\Users\varda\Desktop\NumberGuessingGame\NumbGuess\obj\Debug\net6.0\ref\NumbGuess.dll
